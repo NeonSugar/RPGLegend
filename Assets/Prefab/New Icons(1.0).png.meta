@@ -1,0 +1,1822 @@
+fileFormatVersion: 2
+guid: f80ebc682b3d6324eb93d7c5c3aae494
+timeCreated: 1522575144
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New Icons(1.0)_0
+    21300002: New Icons(1.0)_1
+    21300004: New Icons(1.0)_2
+    21300006: New Icons(1.0)_3
+    21300008: New Icons(1.0)_4
+    21300010: New Icons(1.0)_5
+    21300012: New Icons(1.0)_6
+    21300014: New Icons(1.0)_7
+    21300016: New Icons(1.0)_8
+    21300018: New Icons(1.0)_9
+    21300020: New Icons(1.0)_10
+    21300022: New Icons(1.0)_11
+    21300024: New Icons(1.0)_12
+    21300026: New Icons(1.0)_13
+    21300028: New Icons(1.0)_14
+    21300030: New Icons(1.0)_15
+    21300032: New Icons(1.0)_16
+    21300034: New Icons(1.0)_17
+    21300036: New Icons(1.0)_18
+    21300038: New Icons(1.0)_19
+    21300040: New Icons(1.0)_20
+    21300042: New Icons(1.0)_21
+    21300044: New Icons(1.0)_22
+    21300046: New Icons(1.0)_23
+    21300048: New Icons(1.0)_24
+    21300050: New Icons(1.0)_25
+    21300052: New Icons(1.0)_26
+    21300054: New Icons(1.0)_27
+    21300056: New Icons(1.0)_28
+    21300058: New Icons(1.0)_29
+    21300060: New Icons(1.0)_30
+    21300062: New Icons(1.0)_31
+    21300064: New Icons(1.0)_32
+    21300066: New Icons(1.0)_33
+    21300068: New Icons(1.0)_34
+    21300070: New Icons(1.0)_35
+    21300072: New Icons(1.0)_36
+    21300074: New Icons(1.0)_37
+    21300076: New Icons(1.0)_38
+    21300078: New Icons(1.0)_39
+    21300080: New Icons(1.0)_40
+    21300082: New Icons(1.0)_41
+    21300084: New Icons(1.0)_42
+    21300086: New Icons(1.0)_43
+    21300088: New Icons(1.0)_44
+    21300090: New Icons(1.0)_45
+    21300092: New Icons(1.0)_46
+    21300094: New Icons(1.0)_47
+    21300096: New Icons(1.0)_48
+    21300098: New Icons(1.0)_49
+    21300100: New Icons(1.0)_50
+    21300102: New Icons(1.0)_51
+    21300104: New Icons(1.0)_52
+    21300106: New Icons(1.0)_53
+    21300108: New Icons(1.0)_54
+    21300110: New Icons(1.0)_55
+    21300112: New Icons(1.0)_56
+    21300114: New Icons(1.0)_57
+    21300116: New Icons(1.0)_58
+    21300118: New Icons(1.0)_59
+    21300120: New Icons(1.0)_60
+    21300122: New Icons(1.0)_61
+    21300124: New Icons(1.0)_62
+    21300126: New Icons(1.0)_63
+    21300128: New Icons(1.0)_64
+    21300130: New Icons(1.0)_65
+    21300132: New Icons(1.0)_66
+    21300134: New Icons(1.0)_67
+    21300136: New Icons(1.0)_68
+    21300138: New Icons(1.0)_69
+    21300140: New Icons(1.0)_70
+    21300142: New Icons(1.0)_71
+    21300144: New Icons(1.0)_72
+    21300146: New Icons(1.0)_73
+    21300148: New Icons(1.0)_74
+    21300150: New Icons(1.0)_75
+    21300152: New Icons(1.0)_76
+    21300154: New Icons(1.0)_77
+    21300156: New Icons(1.0)_78
+    21300158: New Icons(1.0)_79
+    21300160: New Icons(1.0)_80
+    21300162: New Icons(1.0)_81
+    21300164: New Icons(1.0)_82
+    21300166: New Icons(1.0)_83
+    21300168: New Icons(1.0)_84
+    21300170: New Icons(1.0)_85
+    21300172: New Icons(1.0)_86
+    21300174: New Icons(1.0)_87
+    21300176: New Icons(1.0)_88
+    21300178: New Icons(1.0)_89
+    21300180: New Icons(1.0)_90
+    21300182: New Icons(1.0)_91
+    21300184: New Icons(1.0)_92
+    21300186: New Icons(1.0)_93
+    21300188: New Icons(1.0)_94
+    21300190: New Icons(1.0)_95
+    21300192: New Icons(1.0)_96
+    21300194: New Icons(1.0)_97
+    21300196: New Icons(1.0)_98
+    21300198: New Icons(1.0)_99
+    21300200: New Icons(1.0)_100
+    21300202: New Icons(1.0)_101
+    21300204: New Icons(1.0)_102
+    21300206: New Icons(1.0)_103
+    21300208: New Icons(1.0)_104
+    21300210: New Icons(1.0)_105
+    21300212: New Icons(1.0)_106
+    21300214: New Icons(1.0)_107
+    21300216: New Icons(1.0)_108
+    21300218: New Icons(1.0)_109
+    21300220: New Icons(1.0)_110
+    21300222: New Icons(1.0)_111
+    21300224: New Icons(1.0)_112
+    21300226: New Icons(1.0)_113
+    21300228: New Icons(1.0)_114
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Icons(1.0)_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_5
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_6
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_7
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_8
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_9
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_11
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_12
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_14
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_17
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_19
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_20
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_21
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_22
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_23
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 384
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_24
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 384
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_26
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 318
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_27
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_30
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_31
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_32
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 320
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_34
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_35
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_36
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_37
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_38
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_39
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_40
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_41
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_42
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_43
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_44
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_45
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_46
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_47
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_48
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_49
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_50
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_51
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_54
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_55
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_56
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_57
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_59
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 193
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_60
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 193
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_61
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 193
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_62
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 128
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_63
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_66
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_67
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_68
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_69
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_70
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_71
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_72
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_73
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_76
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_77
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_78
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_80
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_81
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_82
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_83
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_84
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_85
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_86
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_87
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_88
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_89
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_91
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_92
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_93
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_94
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_95
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_96
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_97
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_98
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_99
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 447
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_101
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 383
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_103
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_104
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 256
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_105
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_106
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_107
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 128
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_108
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_109
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 192
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 64
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_113
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: New Icons(1.0)_114
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 320
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
